@@ -4,4 +4,5 @@
 
  * Repositório criado para colaboração em squad da **1ª entrega do *Projeto Final* / RECODE-pro 2023.**
 
-    * Este linha foi adicionada - como teste - diretamente do site Github.com.
+    * A primeira entrega consite da criação de um site contemplado com HTML-5, CSS-3 e Java Script, que oferte um suporte tórico à Banco e Dados com My SQL;
+    * A proposta do site deve oferecer uma SOLUÇÃO viável ao que conserne o tema Diversidade & Inclusão no Mercado de Trabalho.
