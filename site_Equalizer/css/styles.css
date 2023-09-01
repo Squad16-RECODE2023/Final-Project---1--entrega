@@ -340,3 +340,45 @@
     padding-left: 2em;
   }
 }
+
+.principal {
+  display: flex;
+  flex-direction: column;
+ 
+ margin: auto;
+}
+
+
+.descricao {
+
+  margin-top: 50px;
+
+}
+
+.selo {
+
+margin-bottom: 12%;
+width: 15%;
+
+float: right;
+justify-content: space-evenly;
+}
+
+
+
+
+
+.f02 {
+  margin-top: 50px;
+position: relative;
+left: 150px;
+
+  width: 60%;
+ 
+  
+}
+
+.descricao {
+
+text-align: justify;
+}
